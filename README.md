@@ -8,6 +8,8 @@ Deploy Wiki.js server with a Docker Compose using the command:
 
 `docker compose -f wikijs-traefik-letsencrypt-docker-compose.yml -p wikijs up -d`
 
+Detailed installation guide can be found on my [website](https://www.heyvaldemar.com/install-wikijs-with-docker-compose/).
+
 # Author
 hey, I’m Vladimir Mikhalev, but my friends call me Valdemar.
 
